@@ -1,0 +1,10 @@
+Name : Sanuel John
+Age : 34
+Address : 42 Amudalatu Street
+BVN : 3456789
+Email : samuel@gmail.com
+Phone : 08036025487
+Password: 11111
+Account Number : 3822319972
+created At : 2023-07-22 20:14:58.764115
+Account Balance : 0.0

@@ -1,0 +1,10 @@
+Name : frank onojaife
+Age : 21
+Address : 23 olomore
+BVN : 2345
+Email : frank4wealth@gmail.com
+Phone : 08036020314
+password : 111
+Account Number : 3664310152
+created At : 2023-07-22 13:32:44.954669
+Account Balance : 2100.0
